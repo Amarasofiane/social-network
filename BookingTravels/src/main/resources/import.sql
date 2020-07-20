@@ -1,0 +1,6 @@
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
+INSERT INTO utilisateur(last_name,birth_date,code_piece_iden,fist_name,login_us,mail_us,password_us,phone_us,sexe_user) VALUES ('sofiane','2010-04-02','code09','amara','sofiane','amara@ama.fr','amara123','0768765434','homme');
